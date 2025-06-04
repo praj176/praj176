@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @praj176
+- 👋 Hi, I’m Prajwal
 - 🎓 Completed Computer Engineering with Honours in AI and ML at SCOE Pune in 2023
 - 📫 Linkedin : linkedin.com/in/praj761
 
