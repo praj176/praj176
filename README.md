@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prajwal
+👋 Hi, I’m Prajwal
 - 🎓 Completed Computer Engineering with Honours in AI and ML from SPPU,Pune in 2023
 - 📫 Linkedin : linkedin.com/in/praj761
 
